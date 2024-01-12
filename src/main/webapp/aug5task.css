@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+#top1{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.box1{
+    background-color: aqua;
+    height: 10px;
+    width: 300px;
+    text-align: center;
+}
